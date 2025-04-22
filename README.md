@@ -8,7 +8,7 @@
 <br>
 <p> HTML </p> 
 <p>CSS </p> 
-<p> javascripts </p> 
+
 
 <br>
 <br>
