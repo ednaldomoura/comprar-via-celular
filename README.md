@@ -6,9 +6,10 @@
 
 <h2>Tecnologias utilisadas </h2>
 <br>
-- HTML
-- CSS
-- javascripts
+<p> HTML </p> 
+<p>CSS </p> 
+<p> javascripts </p> 
+
 <br>
 <br>
 
